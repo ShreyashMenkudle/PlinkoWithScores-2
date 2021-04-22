@@ -1,1 +1,2 @@
-# PlinkoWithScores-2
+Plinko with score
+I am Shreyash.
